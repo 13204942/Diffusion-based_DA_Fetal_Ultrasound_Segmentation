@@ -1,0 +1,1 @@
+https://huggingface.co/fangyijie/sd-fetal-head-model-lora
